@@ -2,15 +2,15 @@
   box-sizing: border-box;
 }
 
-:root {
+html {
   font-size: 16px;
 }
 
 body {
   margin: 0;
   line-height: 1.5;
-  font-family: Garamond;
   font-size: 1.25rem;
+  font-family: Garamond, "Times New Roman", Times, serif;
   background-image: url("background.png");
   background-attachment: fixed;
 }
